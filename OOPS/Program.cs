@@ -8,7 +8,8 @@ namespace OOPS
         static void Main(string[] args)
         {
             Car redCar = new Car();
-            Console.WriteLine($"car color is {redCar.Color}");
+            redCar.Speed();
+          
         }
     }
 }

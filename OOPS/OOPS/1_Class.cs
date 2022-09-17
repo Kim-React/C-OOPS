@@ -4,8 +4,12 @@ using System.Text;
 
 namespace OOPS.OOPS
 {
-    public class Car
-    {
-       public string Color = "red";
-    }
+
+
+    //public class Car
+    //{
+    //   public string Color = "red";
+
+     
+    //}
 }
