@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/OOPS/.vs/OOPS/v16
+/OOPS/obj/Debug/netcoreapp3.1/OOPS.csprojAssemblyReference.cache
+/OOPS/obj/Debug/netcoreapp3.1/OOPS.assets.cache
+/OOPS/obj/Debug/netcoreapp3.1/OOPS.AssemblyInfoInputs.cache
+/OOPS/obj/Debug/netcoreapp3.1/OOPS.AssemblyInfo.cs
+/OOPS/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+/OOPS/obj/Release/netcoreapp3.1/OOPS.AssemblyInfoInputs.cache
+/OOPS/obj/Release/netcoreapp3.1/OOPS.AssemblyInfo.cs
+/OOPS/obj/Release/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+/OOPS/obj
+/OOPS/bin/Debug/netcoreapp3.1
