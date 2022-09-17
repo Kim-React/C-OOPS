@@ -13,8 +13,13 @@ namespace OOPS
             //Car car2 = new Car("Ford"); ;
             //Console.WriteLine(car2.model);
 
-            Person person1 = new Person("Kumar");
-            Console.WriteLine(person1.Name)
+
+            static void Main(string[] args)
+            {    // Create a myCar object
+                Car myCar = new Car();
+                myCar.honk();
+                Console.WriteLine(myCar.brand + " " + myCar.modelName);
+            }
 
         }
     }
