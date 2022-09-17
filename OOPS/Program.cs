@@ -7,9 +7,12 @@ namespace OOPS
     {
         static void Main(string[] args)
         {
-            Car redCar = new Car();
-            redCar.Speed();
-          
+            Car car1 = new Car("Mustang"); ;
+            Console.WriteLine(car1.model);
+
+            Car car2 = new Car("Ford"); ;
+            Console.WriteLine(car2.model);
+
         }
     }
 }
